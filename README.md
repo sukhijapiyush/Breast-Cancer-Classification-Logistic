@@ -1,4 +1,4 @@
-# Advanced Regression(Regularization) on Surprise House Dataset
+# Breast Cancer Classification using Logistic Regression
 
 > This project uses Logistic Regression to classify tumors into malignant (cancerous) or benign(non cancerous) on unbalanced class dataset. The model also uses regulization and hyperparametr tuning to get best possible result.
 
