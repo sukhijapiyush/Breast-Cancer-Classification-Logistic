@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Advanced Regression(Regularization) on Surprise House Dataset](#advanced-regressionregularization-on-surprise-house-dataset)
+- [Breast Cancer Classification using Logistic Regression](#breast-cancer-classification-using-logistic-regression)
   - [Table of Contents](#table-of-contents)
   - [General Information](#general-information)
     - [Problem Description](#problem-description)
@@ -70,7 +70,7 @@ As it can be observed from the scenerio our concern is with precision with a goo
 ## Dataset Information
 
 This Dataset has been taken from Kaggle and is availabe on below
-URL: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+URL: <https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset>
 
 Thanks to M Yasser H for sharing the dataset with the world.
 
